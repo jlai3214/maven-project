@@ -1,10 +1,10 @@
 package com.example;
 // testing push to github
 
-
-/**
- * This is a class.
- */
+/** 
+ *  * This is a class.
+*/
+// testing - trigger Jenkins job
 public class Greeter {
 
   /**
