@@ -7,9 +7,7 @@ package com.example;
 // testing - trigger Jenkins job
 public class Greeter {
 
-  /**
-   * This is a constructor.
-   */
+  //   * This is a constructor.    */
   public Greeter() {
 
   }
@@ -17,5 +15,6 @@ public class Greeter {
  
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
+  
   }
 }
